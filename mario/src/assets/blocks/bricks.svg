@@ -3,9 +3,9 @@
         <path d="   M1.5,1.5 l7,0 l0,8 l-1,0 l0,2 l-3,0 l0,-1 l-2,0 l0,-1 l-1,0z
                     M11.5,1.5 l3,0 l0,3 l-2,0 l0,-1 l-1,0z
                     M11.5,7.5 l3,0 l0,6 l-1,0 l0,1 l-4,0 l0,-2 l1,0 l0,-2 l1,0z
-                    M1.5,12 l0,1.5 l2,0 l0,1 l2,0 l-4,0z
-                            " stroke="#D2691E" stroke-width="1" fill="#D2691E"/>
-        <path d="   M0,0 L0,10"
+                    M1.5,12 l0,1.5 l2,0 l0,1 l2,0 l-4,0z"
+                    stroke="#D2691E" stroke-width="1" fill="#D2691E"/>
+        <path d="   M9.5,0 l0,10 m-1,0 l0,2 m-.5,.5 l-4,0 m0,-1 l-2,0 m0,-1 l-2,0"
         
             stroke="#211F1D" stroke-width="1" fill="none"/>
     </symbol>
