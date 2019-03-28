@@ -1,13 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg">
-    <symbol id='brick' viewbox='0 0 16 16'>
-        <path d="   M1.5,1.5 l7,0 l0,8 l-1,0 l0,2 l-3,0 l0,-1 l-2,0 l0,-1 l-1,0z
-                    M11.5,1.5 l3,0 l0,3 l-2,0 l0,-1 l-1,0z
-                    M11.5,7.5 l3,0 l0,6 l-1,0 l0,1 l-4,0 l0,-2 l1,0 l0,-2 l1,0z
-                    M1.5,12 l0,2.5 l5.5,0 l"
-                    stroke="#D2691E" stroke-width="1" fill="#D2691E"/>
-        <path d="   M9.5,0 l0,10 m-1,0 l0,2 m-.5,.5 l-4,0 m0,-1 l-2,0 m0,-1 l-2,0
-                    M1,15.5 l6,0"
-        
-            stroke="#211F1D" stroke-width="1" fill="none"/>
+    <symbol id='ground' viewbox='0 0 16 16'>
+        <path d="   M0,0l0,16l16,0l0,-16z" fill="#D2691E" />
+        <path d="   M9.5,0l0,10m-1,0l0,2m-.5,.5l-4,0m0,-1l-2,0m0,-1l-2,0
+                    M1,15.5l6,0m0.5,-0.5l0,-3M8,15.5l6.5,0l0,-1l1,0l0,-8.5
+                    m-0.5,-0.5l-3.5,0l0,-1.5"
+                    stroke="#211F1D" stroke-width="1" fill="none"/>
+        <path d="   M0.5,10l0,-9m0.5,-0.5l8,0m1.5,4.5l0,-4m0.5,-0.5l4,0
+                    m0.5,0.5l0,4m-0.5,1.5l-4.5,0l0,3.5m-1,0l0,2m-1,0l0,3
+                    m-1.5,-1.5l-3,0m0,-1l-2,0m0,-1l-1.5,0l0,3.5"
+                    stroke="#FFE49E" stroke-width="1" fill="none"/>
     </symbol>
+    <symbol id='question' viewbox='0 0 16 16'>
+        <path d="   M1,1l0,14l14,0l0,-14z" fill="#F99B34" />
+        <path d="   M1,0.5l14,0M0.5,1l0,14M4.5,4l0,2.5l1,0l0,-3l4,0l0,4l1,0l0,-3.5
+                    M7.5,8l0,1.5l1,0l0,-2.5M7.5,11l0,1.5l1,0l0,-1.5"
+                    stroke="#D2691E" stroke-width="1" fill="none"/>
+        <path d="   M1,15.5l14.5,0l0,-14.5M2.5,2l0,1M13.5,2l0,1M2.5,13l0,1M13.5,13l0,1
+                    M5,7.5l1.5,0l0,-3l2.5,0M11.5,5l0,3.5l-2,0l0,2l-1.5,0M9.5,12l0,1.5l-1.5,0"
+                    stroke="#000000" stoke-width="1" fill="none"/>
+    </symbol>
+    <symbol id='brick' viewbox='0 0 16 16'>
+        <path d='   M0,0l0,16l16,0l0,-16z' fill="#D2691E"/>
+        <path d='   M0,3.5l16,0M0,7.5l16,0M0,11.5l16,0M0,15.5l16,0
+                    M3.5,3.5l0,4m0,4l0,4M7.5,0l0,4m0,4l0,4M11.5,3.5l0,4m0,4l0,4M15.5,0l0,4m0,4l0,4'
+                    stroke="#000000" stoke-width="1" fill="none"/>
+    <symbol>
 </svg>
